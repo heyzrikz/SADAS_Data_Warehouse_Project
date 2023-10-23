@@ -1,0 +1,4 @@
+--Stipendio medio annuale per filiale
+SELECT ROUND(STIPENDIO_MEDIO,2) AS STIPENDIO_MEDIO_ANNUALE,FILIALE FROM(
+select AVG(STIPENDIO) AS STIPENDIO_MEDIO,FILIALE  from cedolini_annuali_filiale GROUP BY FILIALE
+)

@@ -1,0 +1,4 @@
+--Età media di tutti i dipendenti
+
+SELECT ROUND(AVG(DATEDIFF('YY', data_nascita,TODAY)), 0) AS eta_media
+FROM (SELECT DISTINCT CODICE_FISCALE, DATA_NASCITA FROM ANAGRAFICA);

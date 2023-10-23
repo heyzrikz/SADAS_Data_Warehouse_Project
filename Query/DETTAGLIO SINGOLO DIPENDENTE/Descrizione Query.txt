@@ -1,0 +1,11 @@
+(12) ---------------- Dati anagrafici singolo dipendente
+(13) ---------------- Dati lavorativi singolo dipendente
+(14_1) -------------- Stipendio ultimo mese da database
+(14_2) -------------- Stipendio ultimo mese attuale
+(15_1) ---------------- Stipendio medio orario, calcolato su ultimo anno solare
+(15_2) ---------------- Stipendio medio orario, calcolato su ultimo anno solare ricerca per singolo dipendente
+(16_1) ---------------- Stipendio medio mensile, calcolato su media ultimo anno solare 
+(16_2) ---------------- Stipendio medio mensile, calcolato su media di ogni anno solare raggruppati per anno
+(16_3) ---------------- Stipendio medio mensile, calcolato su media ultimo anno solare ricerca per singolo dipendente
+(17_1) ---------------- Stipendio annuo, calcolato su ultimo anno solare 
+(18) ------------------ Ordina per ogni dipartimento i dipendenti più qualificati di ogni filiale

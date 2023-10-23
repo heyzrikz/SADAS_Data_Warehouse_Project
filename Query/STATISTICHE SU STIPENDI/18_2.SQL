@@ -1,0 +1,5 @@
+--Top N dipendenti con lo stipendio attuale più alto raggruppati per filiale
+select CODICE_FISCALE,STIPENDIO,FILIALE FROM(
+select CODICE_FISCALE,MAX(MESE) AS MESE,FILIALE,STIPENDIO from cedolini_filiale_dipartimento where anno=2023 AND FILIALE='1' group by CODICE_FISCALE,FILIALE,STIPENDIO --SOSTITUISCI 2023 CON L'ANNO DA ANALIZZARE E DIPARTIMENTO
+) ORDER BY STIPENDIO DESC
+LIMIT 10

@@ -1,0 +1,14 @@
+(1) ----------- Numero di dipendenti in servizio in un determinato intervallo
+(2) ----------- Numero di dipendenti raggruppati per filiale
+(3) ----------- Numero di dipendenti raggruppati per dipartimento
+(5) ----------- Età media di tutti i dipendenti
+(6_1) --------- Dipendenti assunti nell'ultimo e penultimo anno da database
+(6_2) --------- Dipendenti assunti nell'ultimo e penultimo anno corrente
+(6_3) --------- Numero di tutti i dipendenti assunti raggruppati per anno
+(7_1) --------- Dipendenti dimessi nell'ultimo e penultimo anno corrente
+(7_2) --------- Numero di tutti i dipendenti dimessi raggruppati per anno
+(8) ----------- Età media dei dipendenti raggruppati per filiale
+(8_1) --------- Età media dei dipendenti raggruppati per dipartimento
+(9) ----------- TOP N dipendenti da più anni in servizio
+(9_1) --------- TOP N dipendenti da più anni in servizio raggruppato per filiale
+(9_2) --------- TOP N dipendenti da più anni in servizio raggruppato per dipartimento

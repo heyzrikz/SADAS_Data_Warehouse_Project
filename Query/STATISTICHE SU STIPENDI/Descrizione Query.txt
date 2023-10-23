@@ -1,0 +1,21 @@
+(8_1) ----------- Somma di tutti gli stipendi mensili elargiti negli ultimi 12 mesi
+(8_2) ----------- Somma di tutti gli stipendi mensili negli ultimi 12 mesi raggruppati per dipendente
+(9_1) ----------- Somma di tutti gli stipendi annuali negli ultimi 3 anni
+(9_2) ----------- Somma di tutti gli stipendi annuali negli ultimi 3 anni raggruppati per dipendente
+(10) ------------ Stipendio medio mensile raggruppato per dipartimento
+(11) ------------ Stipendio medio mensile raggruppato per livello
+(12) ------------ Stipendio medio mensile per filiale 
+(13) ------------ Grafico Andamentale stipendio(anche netto e competenze) su 2 anni
+(15) ------------ Top N non riceve aumenti da più tempo
+(16) ------------ Dipendenti che hanno stipendio molto più alto o molto più basso rispetto alla media con pari livello
+(16_1) ---------- Dipendenti che hanno stipendio molto più alto rispetto alla media con pari livello
+(16_2) ---------- Dipendenti che hanno stipendio molto più basso rispetto alla media con pari livello
+(17) ------------ Totale degli stipendi mensili per ogni mese
+(18) ------------ Top N dipendenti con lo stipendio attuale più alto
+(18_1) ---------- Top N dipendenti con lo stipendio attuale più alto raggruppati per dipartimento
+(18_2) ---------- Top N dipendenti con lo stipendio attuale più alto raggruppati per filiale
+(19) ------------ Stipendio medio annuale per filiale
+(19_1) ---------- Stipendio medio annuale per dipartimento
+
+
+
